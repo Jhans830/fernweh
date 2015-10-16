@@ -1,0 +1,11 @@
+.main{
+	margin: auto;
+	position: fixed;
+	height: 700px;
+	width: 100%;
+}
+
+.gm-style-iw {
+  width: 100%; 
+  min-height: 400px;
+}
