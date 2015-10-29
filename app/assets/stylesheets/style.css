@@ -9,3 +9,11 @@
   width: 100%; 
   min-height: 400px;
 }
+
+.navbar{
+	padding:0px;
+}
+
+#map{
+	height:100vh;
+}
