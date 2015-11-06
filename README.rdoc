@@ -1,28 +1,21 @@
-== README
+<snippet>
+  <content><![CDATA[
+# ${1:Fernweh}
+[Currently in Progress]
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Ruby on Rails app utilizing the gmaps4rails and geocoder gems to allow users to both share and discover scenic locations.
 
-Things you may want to cover:
+## Versions
+Ruby: 2.2.3
+Rails: 4.0.2
 
-* Ruby version
+## Installation
+'git clone https://github.com/Jhans830/fernweh.git'
+'bundle install'
+'rake db:migrate'
+'rails s'
 
-* System dependencies
+And you are up and running!
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+## Usage
+Feel free to use however you may wish!
