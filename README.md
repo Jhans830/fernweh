@@ -9,10 +9,14 @@ Ruby: 2.2.3
 Rails: 4.0.2
 
 ## Installation
-'git clone https://github.com/Jhans830/fernweh.git'
-'bundle install'
-'rake db:migrate'
-'rails s'
+
+`git clone https://github.com/Jhans830/fernweh.git`
+
+`bundle install`
+
+`rake db:migrate`
+
+`rails s`
 
 And you are up and running!
 
